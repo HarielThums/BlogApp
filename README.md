@@ -25,5 +25,5 @@ Iniciando aplicação:
 
 ![](https://media.giphy.com/media/fUWKOlaLbbJDo5vDmr/giphy.gif)
 - Create, edit, remove das Categorias.
-- 
+
 ![](https://media.giphy.com/media/H3IXysUaO4PseUWdXT/giphy.gif)
