@@ -16,4 +16,14 @@ Iniciando aplicação:
 - `npm i`
 - `npm start`
 
-Servidor rodando!
+**Servidor rodando!**
+
+- Home e sistema de Login.
+
+![](https://media.giphy.com/media/sZUo4xXFJVVDRlgqmi/giphy.gif)
+- Create, edit, remove das Postagens.
+
+![](https://media.giphy.com/media/fUWKOlaLbbJDo5vDmr/giphy.gif)
+- Create, edit, remove das Categorias.
+- 
+![](https://media.giphy.com/media/H3IXysUaO4PseUWdXT/giphy.gif)
