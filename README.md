@@ -18,7 +18,7 @@ Iniciando aplicação:
 
 **Servidor rodando!**
 
-- Home e sistema de Login.
+- Home, Login e cadastro de novo usuário.
 
 ![](https://media.giphy.com/media/sZUo4xXFJVVDRlgqmi/giphy.gif)
 ![](https://media.giphy.com/media/2VYJdVthzf3hnh4Uzd/giphy.gif)
